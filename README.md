@@ -1,1 +1,1 @@
-# casestudy
+# Solutions to Red Points Tests
